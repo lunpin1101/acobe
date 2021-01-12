@@ -6,4 +6,4 @@ An **A**nomaly Detection Method Based on **CO**mpound **BE**havior
 
 # Description
 
-<p> This is a placeholder for the project. I will update this project soon. </p>
+<p> This is a placeholder for the project. I will update this repository soon. </p>
